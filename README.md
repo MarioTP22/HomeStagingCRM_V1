@@ -107,36 +107,32 @@ GEMINI_API_KEY=tu_api_key_aqui
 
 # 5️⃣ Ejecutar en modo desarrollo
 npm run dev
-
-🌐 Demo online
-Puedes visualizar y probar la aplicación directamente aquí 👇
-👉 Probar HomeStagingCRM en AI Studio
-🧰 Ejecución y despliegue en AI Studio
+--------------------------------------------------------------------
 Este repositorio contiene todo lo necesario para ejecutar y desplegar la aplicación en AI Studio, el entorno de desarrollo de IA de Google.
-🧠 Ver tu app en AI Studio
-🔗 Abrir aplicación en AI Studio
-▶️ Ejecutar localmente
 Prerrequisitos:
+----------------------------------
 Tener instalado Node.js
 Contar con una clave válida de la Gemini API
 Pasos:
+--------------------------------------------------------------------
 # Instalar dependencias
 npm install
-
 # Configurar tu clave de API
 # En el archivo .env.local agrega:
 GEMINI_API_KEY=tu_api_key_aqui
-
 # Ejecutar el proyecto
 npm run dev
 La aplicación estará disponible en tu entorno local (por defecto en http://localhost:5173).
+------------------------------------------------------------------------------------------------------
 👨‍💻 Autor ; Mario Torres Pascual
-
+------------------------------------------------------------------------------------------------------
 📄 Licencia y uso del código
 Este proyecto está bajo la licencia MIT, lo que significa que puedes usar, modificar o mejorar el código libremente.
+------------------------------------------------------------------------------------------------------
 ⚠️ Condición de uso ético:
 El código de este proyecto está disponible para que cualquiera pueda editar, mejorar o adaptar sus funcionalidades, siempre que no se suplante la autoría original ni se eliminen las referencias a su creador.
 Se fomenta el aprendizaje, la colaboración y el desarrollo abierto de ideas.
+------------------------------------------------------------------------------------------------------
 🙏 Créditos
 Este proyecto fue desarrollado y desplegado utilizando Google AI Studio y la Gemini API (Google GenAI).
 Agradecimientos especiales a Google por ofrecer herramientas avanzadas de inteligencia artificial que hacen posible la creación de experiencias visuales interactivas y creativas.
