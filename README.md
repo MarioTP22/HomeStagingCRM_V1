@@ -1,12 +1,13 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-## 🧾 Descripción del proyecto
 
+<div align="center">
+## Descripción del proyecto 🧾
 **HomeStagingCRM** es una aplicación web impulsada por inteligencia artificial que transforma imágenes reales de interiores en rediseños visuales aplicando la técnica de *Home Staging*. Su objetivo es ayudar a profesionales del sector inmobiliario, interioristas y propietarios a visualizar el potencial estético de un espacio antes de su venta o alquiler.
 
 Esta herramienta combina visión por computadora, generación de imágenes y una interfaz conversacional para ofrecer una experiencia interactiva, rápida y visualmente atractiva.
-
+</div>
 ---
 
 ## 🎯 ¿Qué hace exactamente?
