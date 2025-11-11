@@ -1,0 +1,7 @@
+{
+  "name": "HomeStagingCRM V1",
+  "description": "Una aplicación de IA para visualizar rediseños de interiores en diferentes estilos decorativos. Sube una foto de una habitación, y la IA generará siete versiones decoradas. Afina el diseño con un chat interactivo para modificar muebles, colores y decoración.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
